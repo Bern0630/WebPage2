@@ -1,0 +1,28 @@
+
+html{
+    background-color:#9bffd7;
+    font-family:  PMingLiU;
+}
+h2{
+    font-size:200%;
+    font-family:DFKai-sb;
+    text-align: center;
+}
+div{
+    margin: 50px ;
+    font-size:125%;
+}
+.Chinese{
+    margin: 5% ;
+    font-size:125%;
+    font-family:DFKai-sb;
+    text-align: center;
+}
+.English{
+    margin: 5%;
+    font-size: 125%;
+    font-family:cursive;
+    text-align: center;
+}
+
+
